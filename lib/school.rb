@@ -20,4 +20,4 @@ end
 
 # examples below
 # academy = School.new("Academy High")
-# academy.add_student("Lee", 5) 
+# academy.add_student("Lee", 5)
