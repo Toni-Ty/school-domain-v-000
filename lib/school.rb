@@ -14,8 +14,10 @@ class School
   def grade(student_grade)
     roster[student_grade]
   end
+  def sort
 
 end
 
-academy = School.new("Academy High")
-academy.add_student("Lee", 5)
+# examples below
+# academy = School.new("Academy High")
+# academy.add_student("Lee", 5) 
