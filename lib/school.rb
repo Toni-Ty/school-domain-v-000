@@ -16,3 +16,5 @@ class School
   end
 
 end
+
+academy = School.new("Academy High")
