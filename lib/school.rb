@@ -19,4 +19,3 @@ end
 
 academy = School.new("Academy High")
 academy.add_student("Jared", 9)
-
