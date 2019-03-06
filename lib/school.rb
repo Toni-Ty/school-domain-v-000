@@ -13,5 +13,6 @@ class School
   end
 
   def grade(grade)
+  end
 
 end
